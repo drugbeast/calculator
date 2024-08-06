@@ -1,0 +1,18 @@
+.result {
+  border-radius: 4px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 4px;
+}
+
+.container {
+  background-color: rgba(243, 244, 246, 1);
+  border-radius: 6px;
+  padding: 4px 8px;
+  display: flex;
+  justify-content: end;
+}
+
+.inner {
+  font-size: 36px;
+  font-weight: 800;
+}
